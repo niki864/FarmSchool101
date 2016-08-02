@@ -53,10 +53,10 @@
         android:layout_height="wrap_content"
         android:text="Confirm"
         android:id="@+id/button"
-        android:layout_below="@+id/cropOption"
+        android:onClick="infoCropConfirmed"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="125dp"
-        android:onClick="infoCropConfirmed"/>
+        android:layout_marginBottom="48dp" />
 
 
 </RelativeLayout>

@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements gConstants {
 
     public void infoCropConfirmed(View v) {
         /** this method will start the second activity to set the reminder on calendar by fixing in the reminder interval */
-        Intent intent = new Intent(MainActivity.this, SecondActivity.class);
+        Intent intent = new Intent(MainActivity.this, CitySelectActivity.class);
         /** a nifty little bundle to pass data from this activity to the secondActivity */
         //Create the bundle
         Bundle b = new Bundle();
