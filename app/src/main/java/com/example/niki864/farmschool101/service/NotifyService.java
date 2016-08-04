@@ -1,7 +1,7 @@
 package com.example.niki864.farmschool101.service;
 
 /**
- * Created by Niki864 on 7/26/2016.
+ * Created by Niki864 on 7/7/2016.
  */
 import android.app.Notification;
 import android.app.NotificationManager;

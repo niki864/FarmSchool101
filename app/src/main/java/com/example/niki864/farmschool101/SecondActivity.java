@@ -1,7 +1,7 @@
 package com.example.niki864.farmschool101;
 
 /**
- * Created by Niki864 on 7/26/2016.
+ * Created by Niki864 on 6/30/2016.
  */
 
 import android.content.Intent;
@@ -89,7 +89,7 @@ public class SecondActivity extends AppCompatActivity {
 
 
     }
-
+  
     @Override
     protected void onStop() {
         // When our activity is stopped ensure we also stop the connection to the service

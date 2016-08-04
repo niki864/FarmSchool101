@@ -81,7 +81,7 @@ public class CitySelectActivity extends AppCompatActivity implements OnItemSelec
         } catch (Exception e) {
             e.printStackTrace();
         }
-        Toast.makeText(this, "The current temperature in your city is: " + temp, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "The current temperature in your city is: " + temp +"degrees Celsius", Toast.LENGTH_SHORT).show();
 
     }
 

@@ -21,6 +21,6 @@
     <string name="weather_thunder">&#xf01e;</string>
     <string name="weather_drizzle">&#xf01c;</string>
 
-    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="place_not_found">Poor Internet Connection. Turn mobile data on and try again </string>
 
 </resources>

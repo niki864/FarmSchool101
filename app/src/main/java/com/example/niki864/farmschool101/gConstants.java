@@ -1,7 +1,7 @@
 package com.example.niki864.farmschool101;
 
 /**
- * Created by Niki864 on 7/31/2016.
+ * Created by Niki864 on 6/22/2016.
  */
 /** Declaring Global Variables in an interface */
 /** Acts a datapool for the watering frequency of each type of plant */
